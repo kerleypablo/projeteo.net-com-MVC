@@ -33,3 +33,4 @@ C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\projeto m
 C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\projeto mvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\projeto mvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\projeto mvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\projeto mvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\index.cshtml.g.cs
